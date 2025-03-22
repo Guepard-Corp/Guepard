@@ -26,11 +26,13 @@
   <hr />
 </div>
 
-**Guepard** is a next-generation **data branching platform** that enables developers, data engineers, and AI teams to **provision, clone, and synchronize databases instantly**—without duplication, delays, or infrastructure overhead.
+# Guepard Platform
 
-# Guepard Platforn
+[**Guepard**](https://guepard.run) is a next-gen **data branching platform** designed for developers, data teams, and AI engineers. It lets you **provision, clone, and sync databases instantly** with zero duplication, zero delays, and no infra headaches.
 
-[**Guepard**](https://guepard.run) is a dev-first platform that brings Git-like branching to your databases. Instantly spin up, clone, and manage isolated environments for development, testing, analytics, and CI/CD — without waiting on ops or duplicating data.
+Built with a dev-first mindset, Guepard brings **Git-style branching to databases**, so you can launch isolated environments for development, testing, analytics, or CI/CD in seconds, no more waiting on ops, no more heavy lifting.
+
+Let me know if you want an even shorter or more technical version!
 
 ## ⚙️ Core Use Cases
 
@@ -71,8 +73,6 @@ Connect instantly using your favorite tools (psql, dbeaver, etc). Check our [Ste
 ## **📖 Documentation**
 
 👉 **[Read the Docs](https://docs.guepard.run)**
-
----
 
 ## **📩 Contact & Community**
 
