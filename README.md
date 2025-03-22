@@ -81,6 +81,6 @@ Have questions, feedback, or just want to say hi? We’d love to hear from you! 
 - 💬 **Join the conversation** on [Discord](https://discord.gg/NYsNzQGvZT)
 - 🐦 **Follow us** on [Linkedin](https://www.linkedin.com/company/runguepard) for updates 
 - 🐙 **Contribute or star** us on [GitHub](https://github.com/Guepard-Corp/Guepard)  
-- 📬 **Email us** at [support@guepard.run](mailto:support@guepard.run)
+- 📬 **Email us** at [our support](mailto:support@guepard.run)
 
 Let’s build the future of data environments — together. 🐆
